@@ -4,3 +4,5 @@
 
 -- Change of white spaces symbols
 vim.opt.listchars = { tab = "» ", trail = "·", nbsp = "␣" }
+
+vim.opt.tabstop = 8
